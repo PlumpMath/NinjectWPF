@@ -1,0 +1,10 @@
+packages
+
+*.obj
+*.bin
+*.pdb
+obj/
+bin/
+*.suo
+*.vspscc
+*.user
